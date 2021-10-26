@@ -1,0 +1,105 @@
+header{
+	margin-bottom: 20px;
+}
+#logo{
+	float: left;
+	height: 100px;
+	padding-right: 150px;
+}
+header h2{
+	color: #01a54f;
+	text-align: center;
+}
+header h3{
+	color: #99ba13;		
+	text-align: center;
+}
+header #ten{
+	float: left;
+}
+#tk img{
+	float: right;
+	width: 40px;
+	height: 20px;
+}
+#tk {
+	float: left;
+	padding-left: 240px;
+}
+
+#tk button img{
+	
+	width: 15px;
+	height: 15px;
+}
+#menu ul{
+	clear: both;
+	background: #fbfef5;
+	list-style: none;
+	width: 1366px;
+	margin-left: -40px;
+}
+#menu ul li{
+	color: black;
+	display: inline-block;
+	width: 148px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+}
+#menu li:hover{
+	background: #00a551;
+	color: white;
+}
+#banner img{
+	width: 1366px;
+	height: 300px;
+}
+section{
+	height: 400px;
+    display: flex;
+    margin-left: 0px;
+}
+.itemtext{
+	padding: 0 31px;
+	flex-basis: 25%;
+}
+.itemtext .icon{
+	font-size: 20px;
+}
+.itemtext .icon img{
+	width: 20px;
+	height: 20px;
+}
+.itemtext img{
+	width: 400px;
+    height: 200px;
+}
+.itemtext p{
+	width: 400px;
+	font-size: 18px;
+	font-family: Arial;
+}
+.itemtext a{
+	border: 1px solid #01a54f;
+	text-decoration: none;
+	padding: 10px;
+	color: #01a54f;
+	margin-left: 255px;
+}
+footer{
+	margin-top: 10px;
+	background: #00a551;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+footer #gt{
+	padding-left: 300px;
+	float: left;
+	padding-right: 480px;
+
+}
+#footer #mxh{
+	margin-right: 200px;
+}
